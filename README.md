@@ -6,10 +6,7 @@ ADM-ZIP is a pure JavaScript implementation for zip data compression for [NodeJS
 
 With [npm](http://npmjs.org) do:
 
-    $ npm install adm-zip-fixcrc
-##
-Fixing CRC error from origin project.	
-
+    $ npm install adm-zip
 	
 ## What is it good for?
 The library allows you to:
